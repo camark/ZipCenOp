@@ -1,4 +1,4 @@
-package zip;
+package gm.zip;
 
 import java.io.File;
 import java.io.IOException;
@@ -17,7 +17,7 @@ public class CenOp {
                     tastypear@gmail.com
                     coolapk.com
                     no source here, but u can reverse as u like
-                    
+
                     Code refactoring through reverse engineering by fantasquex@gmail.com
 
                     usage:
