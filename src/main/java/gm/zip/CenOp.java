@@ -30,6 +30,8 @@ public class CenOp {
         }
         try {
             operate(args[1], args[0]);
+
+            System.out.println("Process complete!");
         } catch (IOException e) {
             System.out.println("internal error.");
             e.printStackTrace();
